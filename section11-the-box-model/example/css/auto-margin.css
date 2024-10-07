@@ -1,0 +1,15 @@
+h2 {
+    border: 2px solid black;
+    text-align: center;
+}
+
+.container {
+    border: 2px solid purple;
+    background-color: rgb(131, 118, 131);
+    height: 500px;
+    width: 500px;
+}
+
+.container h2 {
+    margin: 0 auto;
+}

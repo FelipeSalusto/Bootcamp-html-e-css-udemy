@@ -1,0 +1,42 @@
+body {
+    background-color: #463d36;
+    font-family: sans-serif;
+    color: #463d36;
+}
+
+.container {
+    background-color: #fff;
+    width: 600px;
+    padding: 40px;
+    margin: 100px auto;
+    border-radius: 20px;
+}
+
+h1 {
+    font-size: 28px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #a6192c;
+    margin: 0;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: lighter;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+p {
+    font-size: 28px;
+}
+
+button {
+    font-size: 28px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #463d36;
+    padding: 30px 40px;
+}
+

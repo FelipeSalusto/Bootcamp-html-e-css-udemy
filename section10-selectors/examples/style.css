@@ -1,0 +1,41 @@
+body {
+    font-family: Merriweather, serif;
+}
+
+h1, h2, h3 { /*Grouping selectors (tags)*/
+    font-family: 'Work sans', sans-serif;
+}
+
+/* input[type="number"] {
+    background-color: cyan;
+}
+
+a[href*="wiki"] { /*Links with "wiki" anywhere in the URL
+    color: cyan; 
+}
+
+a[href^="#"] { /*Links with a URL that start with "#"
+    color: magenta;
+}
+
+/* a[href$=".org"] { /*Links with a URL that ends with ".org"
+    color: blueviolet;
+} 
+
+.score, .tag, #featured { /*Grouping selectors (Others elements, in this case class e id)
+    color: white;
+    background-color: blueviolet;
+} */
+
+#cast span {
+    color: grey;
+}
+
+ol > li {
+    border: 1px solid blue;
+}
+
+h2.score {
+    color: blueviolet;
+}
+
